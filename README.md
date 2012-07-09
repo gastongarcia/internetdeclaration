@@ -16,8 +16,6 @@ Rejoignez-nous pour défendre l'Internet libre et ouvert.
 
 Nous sommes pour un Internet libre et ouvert.
 
-Nous sommes pour
-
 Nous soutenons un processus transparent et participatif pour l'élaboration des politiques sur Internet, et la création de cinq principes fondamentaux :
 
 **Expression** : Ne censurez pas Internet.
