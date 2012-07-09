@@ -4,7 +4,7 @@
 
 ## Préambule
 
-Nous pensons qu'un Internet libre et ouvert peut rendre le monde meilleur. Afin de garder l'Internet libre et ouvert, nous appelons les communautés, les industrues et les pays à reconnaitre ces principes. Nous pensons qu'ils amèneront plus de créativité et d'innovation ainsi que des sociétés plus ouvertes.
+Nous pensons qu'un Internet libre et ouvert peut rendre le monde meilleur. Afin de garder l'Internet libre et ouvert, nous appelons les communautés, les industries et les pays à reconnaitre ces principes. Nous pensons qu'ils amèneront plus de créativité et d'innovation ainsi que des sociétés plus ouvertes.
 
 Nous rejoignons un mouvement international pour défendre nos libertés parce que nous croyons qu'elles valent qu'on se bate pour elle.
 
